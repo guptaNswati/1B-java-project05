@@ -1,0 +1,12 @@
+FEEDBACK:
+
+Good testing of a deep copy of your linked lists.
+	However, for future clarify what the test case is showing,
+	or in the element of the linked list that has been updated.
+	Otherwise, it is difficult to pinpoint the changes.
+
+
+Nice clean implementation of cloning elements of your linked list.
+
+-Bita.
+
